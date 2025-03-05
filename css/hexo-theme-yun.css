@@ -342,7 +342,7 @@ a:hover {
   cursor: url("images/link.cur"), pointer;
 }
 input {
-  cursor: url("images/beam.cur"), auto;
+  cursor: url("images/beam1.cur"), auto;
 }
 :root {
   --banner-char-bg-color: rgba(255,255,255,0.5);
