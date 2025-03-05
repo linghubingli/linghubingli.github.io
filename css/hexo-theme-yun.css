@@ -333,16 +333,16 @@ body {
   cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/pointer.cur"), auto;
 }
 a {
-  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), auto;
+  cursor: url("images/link1.cur"), auto;
 }
 a:hover {
-  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), auto;
+  cursor: url("images/link1.cur"), auto;
 }
 .hty-icon-button {
-  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), pointer;
+  cursor: url("images/link1.cur"), pointer;
 }
 input {
-  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/text1.cur"), auto;
+  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/text1.ani"), auto;
 }
 :root {
   --banner-char-bg-color: rgba(255,255,255,0.5);
@@ -897,7 +897,7 @@ input {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), pointer;
+  cursor: url("images/link1.cur"), pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
