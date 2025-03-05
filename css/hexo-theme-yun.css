@@ -330,19 +330,19 @@ body::before {
   }
 }
 body {
-  cursor: url("images/pointer1.ani"), auto;
+  cursor: url("https://cdn.yunyoujun.cn/css/md-cursors/pointer.cur"), auto;
 }
 a {
-  cursor: url("images/link1.cur"), auto;
+  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), auto;
 }
 a:hover {
-  cursor: url("images/link1.cur"), auto;
+  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), auto;
 }
 .hty-icon-button {
-  cursor: url("images/link1.cur"), pointer;
+  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), pointer;
 }
 input {
-  cursor: url("images/beam1.cur"), auto;
+  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/text1.cur"), auto;
 }
 :root {
   --banner-char-bg-color: rgba(255,255,255,0.5);
@@ -897,7 +897,7 @@ input {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("images/link1.cur"), pointer;
+  cursor: url("https://gitee.com/Yae_Miko_Fox/icor/raw/master/link1.cur"), pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
