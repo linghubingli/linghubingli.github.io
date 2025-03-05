@@ -140,7 +140,7 @@ html.dark {
   --banner-char-color: #fff;
   --banner-char-bg-color: rgba(0,0,0,0.5);
   --banner-char-hover-color: #000;
-  --post-card-bg-color: rgba(27,31,46,0.9);
+  --post-card-bg-color: rgba(27,31,46,0.8);
   --post-card-shadow: 0 1px 8px rgba(27,31,46,0.1);
   --sidebar-bg-color: rgba(27,31,46,0.95);
   --sidebar-bg-image: url("");
@@ -330,19 +330,19 @@ body::before {
   }
 }
 body {
-  cursor: url("/images/pointer.cur"), auto;
+  cursor: url("images/pointer.ani"), auto;
 }
 a {
-  cursor: url("/images/link.cur"), auto;
+  cursor: url("images/link.cur"), auto;
 }
 a:hover {
-  cursor: url("/images/link.cur"), auto;
+  cursor: url("images/link.cur"), auto;
 }
 .hty-icon-button {
-  cursor: url("/images/link.cur"), pointer;
+  cursor: url("images/link.cur"), pointer;
 }
 input {
-  cursor: url("/images/beam.cur"), auto;
+  cursor: url("images/beam.cur"), auto;
 }
 :root {
   --banner-char-bg-color: rgba(255,255,255,0.5);
@@ -897,7 +897,7 @@ input {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("/images/link.cur"), pointer;
+  cursor: url("images/link.cur"), pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
@@ -1273,7 +1273,7 @@ input {
   }
 }
 :root {
-  --post-card-bg-color: rgba(255,255,255,0.9);
+  --post-card-bg-color: rgba(255,255,255,0.8);
   --post-card-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
 .post-card {
