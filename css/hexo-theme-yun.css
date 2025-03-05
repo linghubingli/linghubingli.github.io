@@ -330,16 +330,16 @@ body::before {
   }
 }
 body {
-  cursor: url("images/pointer.ani"), auto;
+  cursor: url("images/pointer1.ani"), auto;
 }
 a {
-  cursor: url("images/link.cur"), auto;
+  cursor: url("images/link1.cur"), auto;
 }
 a:hover {
-  cursor: url("images/link.cur"), auto;
+  cursor: url("images/link1.cur"), auto;
 }
 .hty-icon-button {
-  cursor: url("images/link.cur"), pointer;
+  cursor: url("images/link1.cur"), pointer;
 }
 input {
   cursor: url("images/beam1.cur"), auto;
@@ -897,7 +897,7 @@ input {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("images/link.cur"), pointer;
+  cursor: url("images/link1.cur"), pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
